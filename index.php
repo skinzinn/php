@@ -1,5 +1,5 @@
 <?php   
 
-echo "hellw wprld.asd";
+echo "loljkbn ld.asd";
 
 ?>
